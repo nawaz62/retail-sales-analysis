@@ -27,19 +27,19 @@ Quantity, Unit Price, Discount, Sales, Profit, Ship Mode.
 ## Screenshots
 
 **KPI Dashboard**
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 **Category Summary**
-![Category Summary](images/category_summary.png)
+![Category Summary](category_summary.png)
 
 **Region Summary**
-![Region Summary](images/region_summary.png)
+![Region Summary](region_summary.png)
 
 **Monthly Trend**
-![Monthly Trend](images/monthly_trend.png)
+![Monthly Trend](monthly_trend.png)
 
 **Top 10 Sub-Categories**
-![Top Sub-Categories](images/top_subcategories.png)
+![Top Sub-Categories](top_subcategories.png)
 
 > Note: GitHub's inline file viewer doesn't render charts embedded in `.xlsx` files, so opening
 > `Retail_Sales_Analysis.xlsx` directly on GitHub will only show a "View raw" download link — the
